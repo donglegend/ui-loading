@@ -12,4 +12,4 @@ bower install ui-loading --save  //(下载安装到本地)
 
 如果用 amd 或者 cmd规范的，请自行修改 js文件中 jquery引入路径
 
-[show demo]()
+[show demo](http://donglegend.com/ui-loading/demo/show.html)
