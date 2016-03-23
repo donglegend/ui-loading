@@ -2,7 +2,7 @@
 这是一个简单方便使用的 jquery loading插件,loading动画用 css3 制作
 不支持比较低级的浏览器，还望谅解.
 
-＃ 使用
+# 使用
 ```
 git clone https://github.com/donglegend/ui-loading
 或者
