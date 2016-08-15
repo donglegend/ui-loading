@@ -21,6 +21,8 @@ gulp.task("build", function (){
     gulp.src("build/*.css")
         .pipe(gulp.dest("dist/"));
     gulp.src("js/ui-loading.js")
+        .pipe(gulp.dest("dist/"));
+    gulp.src("js/effects.js")
         .pipe(gulp.dest("dist/"))
 })
 
